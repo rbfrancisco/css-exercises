@@ -1,0 +1,13 @@
+.click1, .click2{
+    font-family: Helvetica, "Times New Roma", sans-serif;
+    font-size: 28px;
+}
+
+.click1{
+    background-color: black;
+    color: white;
+}
+
+.click2{
+    background-color: yellow;
+}
